@@ -30,7 +30,7 @@
     "@types/node": "^16.7.13",
     "dotenv": "^10.0.0",
     "ethers": "^5.4.6",
-    "md-to-pdf": "^5.1.0",
+    "md-to-pdf": "^5.2.4",
     "micro-ftch": "^0.3.1",
     "rehype-sanitize": "^5.0.1",
     "rehype-slug": "^5.0.1",
